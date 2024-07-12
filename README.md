@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-2023/03/14 계정설립 날짜🗓️
+**2023/03/14 계정설립 날짜🗓️**
+
+
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
