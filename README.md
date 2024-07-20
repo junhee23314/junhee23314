@@ -1,12 +1,12 @@
 ## Hi there 👋
-안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.
+안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.gt
 
 **2023/03/14 계정설립 날짜🗓️**
-
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you star
+ted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
