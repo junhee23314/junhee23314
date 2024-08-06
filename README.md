@@ -1,8 +1,8 @@
 ## Hi there 👋
 안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.
+http://127.0.0.1:5500/opening.html
 
 **2023/03/14 계정설립 날짜🗓️**
-http://127.0.0.1:5500/opening.html
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
