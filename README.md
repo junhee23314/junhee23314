@@ -3,7 +3,7 @@
 안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.<br>
 <!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
 ![이미지](https://images.unsplash.com/photo-1724963608433-d5a85cb961c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzNTZ8fHxlbnwwfHx8fHw%3D)
-
+[]()
 
 **2023/03/14 계정설립 날짜🗓️**
 하이하이 헬로우 에브리원 마이 네임 이즈 준준 ㅎ
