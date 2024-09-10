@@ -8,6 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
 
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README
