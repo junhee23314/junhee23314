@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=사용자명&theme=radical)
+
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px">
 
