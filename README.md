@@ -6,7 +6,6 @@
 []()
 
 **2023/03/14 계정설립 날짜🗓️**
-하이하이 헬로우 에브리원 마이 네임 이즈 준준 ㅎ
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
