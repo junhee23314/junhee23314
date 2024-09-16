@@ -9,9 +9,22 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<div class="blur-hover">
+  <img src="your-image.jpg" alt="Your Image">
+</div>
+<style>
+.blur-hover {
+  overflow: hidden;
+}
 
+.blur-hover img {
+  transition: filter 0.3s ease-in-out;
+}
 
-
+.blur-hover:hover img {
+  filter: blur(5px);
+}
+<style>
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px">
 
 
