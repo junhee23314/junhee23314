@@ -84,7 +84,7 @@
 <!--END_SECTION:waka-->
 
 ### 👀 프로필 방문자 수
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=junhee23314)
 
 </div>
 
