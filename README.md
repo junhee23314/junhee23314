@@ -1,4 +1,4 @@
-
+                                                                                                                                                                                                                    
 
 <p align="center">
 
@@ -41,7 +41,7 @@
 - **배포 링크**: [포트폴리오 웹사이트 보기](https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!%20(%EB%B0%98%EC%9D%91%ED%98%95)_21106)
 
 
-
+<p align="center">
 ### 📊 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
@@ -56,12 +56,12 @@
 
 ### 🏆 GitHub 활동 그래프
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhee23314&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</p>
 
 
 
 **Email: 2023273@sungil-i.kr**
-<!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
+
 
 **2023/03/14 계정설립 날짜🗓️**
 
