@@ -17,17 +17,17 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ,![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-,![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black):<br>
-**웹 페이지의 구조를 이해, 적절한 태그를 사용하여 콘텐츠를 배치할 수 있음. 스타일을 설정하고, 반응형 웹 디자인을 구현할 수 있음.**
+,![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+**:웹 페이지의 구조를 이해, 적절한 태그를 사용하여 콘텐츠를 배치할 수 있음. 스타일을 설정하고, 반응형 웹 디자인을 구현할 수 있음.**
 
 
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white):<br>
-**클래스, 메서드, 인스턴스, 생성자, 오버 로딩, this, static, 변수의 범위를 이해**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)<br>
+**:클래스, 메서드, 인스턴스, 생성자, 오버 로딩, this, static, 변수의 범위를 이해**
 
 
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white):<br>
-**Oracle SQL을 사용하여 데이터 검색, 삽입, 업데이트, 삭제 등의 작업을 수행할 수 있음.**
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)<br>
+**:Oracle SQL을 사용하여 데이터 검색, 삽입, 업데이트, 삭제 등의 작업을 수행할 수 있음.**
 
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)<br>
 
