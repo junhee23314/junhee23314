@@ -1,7 +1,10 @@
+<p align="center">
 
 <img src="https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617"  width="500" />
-## Hi there 👋
 
+</p>
+
+## Hi there 👋
 안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.
 <!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
 
