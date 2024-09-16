@@ -42,7 +42,8 @@
 
 
 <p align="center">
-### 📊 GitHub 통계
+
+  ### 📊 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
 
@@ -56,6 +57,7 @@
 
 ### 🏆 GitHub 활동 그래프
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhee23314&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 
