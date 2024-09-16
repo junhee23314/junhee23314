@@ -55,7 +55,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ### 🏆 GitHub 활동 그래프
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=junhee23314&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
