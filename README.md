@@ -14,7 +14,7 @@
 
 ### ⚙️ 기술 스택 ( Technology Stack )
 
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ,![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ,![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
 **:웹 페이지의 구조를 이해, 적절한 태그를 사용하여 콘텐츠를 배치할 수 있음. 스타일을 설정하고, 반응형 웹 디자인을 구현할 수 있음.**
