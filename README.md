@@ -33,7 +33,18 @@
 
 
 ### 📌 주요 프로젝트
+
 #### [My Portfolio Website](https://github.com/username/portfolio)
+- 개인 포트폴리오 웹사이트로, **React**와 **Tailwind CSS**를 사용해 빠르고 반응형 UI를 구현했습니다.
+- **사용 기술**: React, JavaScript, TailwindCSS, Netlify
+- **주요 기능**: 사용자 맞춤형 포트폴리오 제작, 애니메이션 효과, 다국어 지원
+- **성과**: 배포 후 3개월 만에 200명 이상의 방문자가 사이트를 이용했습니다.
+- **배포 링크**: [포트폴리오 웹사이트 보기](https://username.github.io/portfolio)
+
+#### [E-commerce App](https://github.com/username/ecommerce-app)
+- Node.js와 Express로 개발된 전자상거래 웹 애플리케이션입니다.
+- **사용 기술**: Node.js, Express, MongoDB, Stripe API
+- **주요 기능**: 장바구니, 결제 시스템 통합, 사용자 인증 및 권한 관리
 
 
 
