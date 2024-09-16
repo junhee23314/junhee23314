@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617"  width="200" />
 ## Hi there 👋
 
 안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.<br>
