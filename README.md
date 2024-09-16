@@ -10,11 +10,15 @@
 현재 프론트엔드 방과후 수업과 교내 커리큘럼을 통해 공부하고 있습니다. 
 프론트엔드 개발자가 되는 것이 제 꿈이며, 혁신적이고 편리한 웹페이지를 만드는 것이 목표입니다.**
 
+
 ### ⚙️ 기술 스택
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)
 
 **Programming Languages:` HTML`, `CSS`, `Java`, `JavaScript`**
 **Email: 2023273@sungil-i.kr**
