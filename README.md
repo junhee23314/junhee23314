@@ -7,23 +7,25 @@
 </p>
 
 
-<h2>Introduction</h2>
+<h2>소개(Introduction)</h2>
 
 **안녕하세요 저는 2학년 소프트웨어개발과의 재학중인 김준희입니다,현재 프론트엔드 방과후 수업과 교내 커리큘럼을 통해 공부하고 있습니다. 프론트엔드 개발자가 되는 것이 제 꿈이며, 혁신적이고 편리한 웹페이지를 만드는 것이 목표입니다.**
 
 
-### ⚙️ 기술 스택
+### ⚙️ 기술 스택(Technology Stack)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
+:웹페이지 구현 가능
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)<br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)<br>
+
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)<br>
 
-### 🌐 프론트엔드
-- React: [Project Link](https://github.com/username/project)
-- Vue.js: [Portfolio](https://username.github.io/portfolio)
 
 **Email: 2023273@sungil-i.kr**
 <!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
