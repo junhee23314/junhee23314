@@ -46,7 +46,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&theme=radical)
 
 ### 🏆 GitHub 트로피
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
