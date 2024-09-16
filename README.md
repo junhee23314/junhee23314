@@ -60,6 +60,33 @@
 
 </p>
 
+### 📊 GitHub 통계 및 활동
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+### 🏆 GitHub 트로피
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 커밋 스트릭
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+
+### 🏆 GitHub 활동 그래프
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐍 기여 그래프 애니메이션
+![GitHub Contribution Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+### ⏳ 지난 주 코딩 시간
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 👀 프로필 방문자 수
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+</div>
 
 
 **Email: 2023273@sungil-i.kr**
