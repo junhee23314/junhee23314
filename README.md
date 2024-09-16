@@ -34,7 +34,7 @@
 
 ### 📌 주요 프로젝트
 
-#### [My Portfolio Website](https://github.com/username/portfolio)
+#### [My Portfolio Website](https://github.com/junhee23314/web/tree/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%84%20%EC%95%8C%EB%A6%AC%EC%9E%90!%20(%EB%B0%98%EC%9D%91%ED%98%95)_21106)
 - 개인 포트폴리오 웹사이트로, **React**와 **Tailwind CSS**를 사용해 빠르고 반응형 UI를 구현했습니다.
 - **사용 기술**: React, JavaScript, TailwindCSS, Netlify
 - **주요 기능**: 사용자 맞춤형 포트폴리오 제작, 애니메이션 효과, 다국어 지원
