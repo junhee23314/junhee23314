@@ -20,7 +20,10 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)
 
-**Programming Languages:` HTML`, `CSS`, `Java`, `JavaScript`**
+### 🌐 프론트엔드
+- React: [Project Link](https://github.com/username/project)
+- Vue.js: [Portfolio](https://username.github.io/portfolio)
+
 **Email: 2023273@sungil-i.kr**
 <!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
 
