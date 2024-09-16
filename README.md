@@ -1,4 +1,4 @@
-![874shots_so](https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617)
+![874shots_so](https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617 width="20")
 
 ## Hi there 👋
 
