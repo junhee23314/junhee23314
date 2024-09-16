@@ -45,6 +45,19 @@
 
 ### 📊 GitHub 통계 및 활동
 
+<table>
+  <tr>
+    <td>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
+   </td>
+  <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&theme=radical)
+
+  </td>
+    
+   </tr>
+  
+</table>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
 
