@@ -3,7 +3,7 @@
 안녕하세요 성일정보고등학교에 재학 중인 김준희라고 합니다.<br>
 <!-- http://127.0.0.1:5500/opening.html - 진행중🛠️ -->
 <div class="blur-hover">
-![이미지](https://images.unsplash.com/photo-1724963608433-d5a85cb961c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzNTZ8fHxlbnwwfHx8fHw%3D)
+ <img src="[your-image.jpg](https://images.unsplash.com/photo-1724963608433-d5a85cb961c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzNTZ8fHxlbnwwfHx8fHw%3D)" alt="Your Image">
 </div>
 **2023/03/14 계정설립 날짜🗓️**
 
