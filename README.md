@@ -1,11 +1,8 @@
-                                                                                                                                                                                                                    
-
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/4f8185fc-2218-4057-ac3b-0fb54063a617"  width="650" />
 
 </p>
-
 
 # 소개 ( Introduction )</h2>
 
@@ -45,20 +42,6 @@
 
 ### 📊 GitHub 통계 및 활동
 
-<table>
-  <tr>
-    <td>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
-   </td>
-  <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&theme=radical)
-
-  </td>
-    
-   </tr>
-  
-</table>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhee23314&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&theme=radical)
@@ -74,18 +57,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=junhee23314)
 
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
+
 
 **Email: 2023273@sungil-i.kr**
 
 
 **2023/03/14 계정설립 날짜🗓️**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=Hello%20Introducing%20Junhee's%20Portfolio%20:)&animation=fadeIn&fontColor=000000&fontSize=40" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=junhee23314&bg_color=60,7c98da,2cddc8&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&bg_color=60,7c98da,2cddc8&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README
 .md` (this file) appears on your GitHub profile.
