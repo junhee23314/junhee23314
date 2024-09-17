@@ -1,3 +1,4 @@
+<!--
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Hello%20Introducing%20Junhee's%20Portfolio%20:)&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
@@ -81,7 +82,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=junhee23314&bg_color=60,7c98da,2cddc8&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&bg_color=60,7c98da,2cddc8&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
+    </div> -->
     
 <!--
 **junhee23314/junhee23314** is a ✨ _special_ ✨ repository because its `README
