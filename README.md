@@ -29,7 +29,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=junhee23314&bg_color=60,e8ece9,8accb8&title_color=182e3c&text_color=182e3c"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&bg_color=60,e8ece9,8accb8&title_color=182e3c&text_color=182e3c"
            /> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=junhee23314&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)    
+        <img src="https://github-profile-trophy.vercel.app/?username=junhee23314&theme=onedark" />
 </div> 
     </div>
     
