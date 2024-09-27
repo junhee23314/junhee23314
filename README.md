@@ -1,4 +1,4 @@
-<!--
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d9e7e8,100:11eaf7&height=180&text=Welcome%20to%20Junhee's%20GitHub%20:)&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
@@ -32,11 +32,10 @@
            /> 
         <img src="https://github-profile-trophy.vercel.app/?username=junhee23314&theme=onedark" />
        
- <img src="https://streak-stats.demolab.com/?user=junhee23314&theme=dark" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junhee23314&theme=dark)](https://git.io/streak-stats)
 </div> 
     </div>
     
--->
 
 
 <!--
