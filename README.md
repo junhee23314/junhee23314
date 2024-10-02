@@ -27,7 +27,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Contact me </h2> <br> 
-    <div align= "center">  <a href=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4> <img src="[https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4](https://www.notion.so/Junhee-s-Notion-11347a09a6ce80c58853e9e7606b3d34?pvs=4)"> </a>
+    <div align= "center">  <a href=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4"> </a>
          <a href=mailto:jhthing555@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhthing555@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
