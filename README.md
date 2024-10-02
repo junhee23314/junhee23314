@@ -31,7 +31,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   <img src="https://github-readme-stats.vercel.app/api?username=junhee23314&bg_color=60,e8ece9,8accb8&title_color=182e3c&text_color=182e3c"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <h2> 📊 통 계 ( Stats ) </h2> <div align= "center">   <img src="https://github-readme-stats.vercel.app/api?username=junhee23314&bg_color=60,e8ece9,8accb8&title_color=182e3c&text_color=182e3c"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhee23314&layout=compact&bg_color=60,e8ece9,8accb8&title_color=182e3c&text_color=182e3c"
            /> 
         <img src="https://github-profile-trophy.vercel.app/?username=junhee23314&theme=onedark" />
