@@ -45,13 +45,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://necessary-twine-a01.notion.site/Junhee-s-Notion-11347a09a6ce80c58853e9e7606b3d34?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://necessary-twine-a01.notion.site/Junhee-s-Notion-11347a09a6ce80c58853e9e7606b3d34?pvs=4"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    
+   
 <!--
 
 
