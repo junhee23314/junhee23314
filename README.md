@@ -29,12 +29,8 @@
     </div>
     
 </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:jhthing555@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jhthing555@gmail.com"> </a>
-         <a href=https://www.notion.so/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhee23314%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+  
+<div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhee23314%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div align= "center"> 
