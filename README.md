@@ -6,7 +6,8 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Self-introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
-저는 2학년 소프트웨어개발과의 재학중인 김준희입니다,현재 프론트엔드 방과후 수업과 교내 커리큘럼을 통해 공부하고 있습니다. 프론트엔드 개발자가 되는 것이 제 꿈이며, 혁신적이고 편리한 웹페이지를 만드는 것이 목표입니다. 
+저는 2학년 소프트웨어개발과의 재학중인 김준희입니다,현재 프론트엔드 방과후 수업과 교내 커리큘럼을 통해 공부하고 있습니다.<br> 
+프론트엔드 개발자가 되는 것이 제 꿈이며, 혁신적이고 편리한 웹페이지를 만드는 것이 목표입니다. 
     </div> 
 </div>
     
