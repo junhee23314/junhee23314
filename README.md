@@ -38,6 +38,10 @@
        
 [![GitHub Streak](https://streak-stats.demolab.com/?user=junhee23314&theme=dark)](https://git.io/streak-stats)</div> 
     </div>
+
+<div align= "center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+</div>
     
 <!--
 
