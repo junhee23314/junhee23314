@@ -40,7 +40,7 @@
     </div>
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=80ff80&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     
     
