@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:d9e7e8,100:11eaf7&height=180&text=Welcome%20to%20Junhee's%20GitHub%20:)&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Hi </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Self-introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 저는 2학년 소프트웨어개발과의 재학중인 김준희입니다,현재 프론트엔드 방과후 수업과 교내 커리큘럼을 통해 공부하고 있습니다. 프론트엔드 개발자가 되는 것이 제 꿈이며, 혁신적이고 편리한 웹페이지를 만드는 것이 목표입니다. 
     </div> 
@@ -11,7 +11,7 @@
     
 
  <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
      <div  align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -24,7 +24,7 @@
     </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Contact me </h2> <br> 
     <div align= "center">  <a href=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://outrageous-heron-ae9.notion.site/Junhee-s-Notion-13f611f973a349e99528cca844a2b53a?pvs=4"> </a>
          <a href=mailto:jhthing555@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhthing555@gmail.com"> </a>
           </div>  <br> 
